@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/uade-student-race.iml" filepath="$PROJECT_DIR$/uade-student-race.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Estudio arquitectura/Estudio arquitectura.iml" filepath="$PROJECT_DIR$/Estudio arquitectura/Estudio arquitectura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPO/TPO.iml" filepath="$PROJECT_DIR$/TPO/TPO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UADE_TPO_POO.iml" filepath="$PROJECT_DIR$/UADE_TPO_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segundaPrueba/segundaPrueba.iml" filepath="$PROJECT_DIR$/segundaPrueba/segundaPrueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentRacing/studentRacing.iml" filepath="$PROJECT_DIR$/studentRacing/studentRacing.iml" />
+>>>>>>> 57f03cf749152195f0bce126555ad11631fbe8af
+    </modules>
+  </component>
+</project>
