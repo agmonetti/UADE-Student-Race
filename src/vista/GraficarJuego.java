@@ -261,7 +261,7 @@ public class GraficarJuego extends JPanel implements ActionListener, KeyListener
             System.out.println("Error al reproducir música: " + e.getMessage());
         }
     }
-
+//
     @Override
     public void keyTyped(KeyEvent e) {}
 
